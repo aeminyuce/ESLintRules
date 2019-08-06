@@ -11,8 +11,6 @@
 
 module.exports = {
     parser: "espree",
-    ecmaFeatures: {},
-
     rules: {
 
         /* eslint-enable sort-keys */
